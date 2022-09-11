@@ -1,5 +1,5 @@
 {
-  "name": "cmfstore/mediawiki-ext-src",
+  "name": "zmarket/mediawiki-ext-src",
   "type": "mediawiki-extension",
   "description": "MediaWiki syntax highlight extension.",
   "license": "MIT",
@@ -23,13 +23,13 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/mediawiki-ext-src/issues",
-    "source": "https://github.com/cmfstore/mediawiki-ext-src"
+    "issues": "https://github.com/zbox/mediawiki-ext-src/issues",
+    "source": "https://github.com/zbox/mediawiki-ext-src"
   },
   "require": {
     "php": ">=7.2",
     "composer/installers": "^1.0.1",
-    "cmfstore/mediawiki-ext-kernel": "*"
+    "zmarket/mediawiki-ext-kernel": "*"
   },
   "autoload": {
     "classmap": [
